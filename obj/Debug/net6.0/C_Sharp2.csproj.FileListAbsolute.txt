@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/obj/Debug/net6.0/C_Sharp2.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/obj/Debug/net6.0/C_Sharp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/obj/Debug/net6.0/C_Sharp2.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/obj/Debug/net6.0/C_Sharp2.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/obj/Debug/net6.0/C_Sharp2.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/bin/Debug/net6.0/C_Sharp2
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/bin/Debug/net6.0/C_Sharp2.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/bin/Debug/net6.0/C_Sharp2.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/bin/Debug/net6.0/C_Sharp2.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/bin/Debug/net6.0/C_Sharp2.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/obj/Debug/net6.0/C_Sharp2.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/obj/Debug/net6.0/refint/C_Sharp2.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/obj/Debug/net6.0/C_Sharp2.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/obj/Debug/net6.0/C_Sharp2.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/obj/Debug/net6.0/ref/C_Sharp2.dll
