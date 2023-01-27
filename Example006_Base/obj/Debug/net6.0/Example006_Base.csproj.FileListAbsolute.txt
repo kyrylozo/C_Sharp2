@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/obj/Debug/net6.0/Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/bin/Debug/net6.0/Example006_Base
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/bin/Debug/net6.0/Example006_Base.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/bin/Debug/net6.0/Example006_Base.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/bin/Debug/net6.0/Example006_Base.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/bin/Debug/net6.0/Example006_Base.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/obj/Debug/net6.0/Example006_Base.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/obj/Debug/net6.0/refint/Example006_Base.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/obj/Debug/net6.0/Example006_Base.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/obj/Debug/net6.0/Example006_Base.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example006_Base/obj/Debug/net6.0/ref/Example006_Base.dll
