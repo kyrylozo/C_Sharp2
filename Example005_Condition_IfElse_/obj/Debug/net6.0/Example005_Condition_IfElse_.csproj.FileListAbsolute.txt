@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/bin/Debug/net6.0/Example005_Condition_IfElse_
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/bin/Debug/net6.0/Example005_Condition_IfElse_.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/bin/Debug/net6.0/Example005_Condition_IfElse_.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/bin/Debug/net6.0/Example005_Condition_IfElse_.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/bin/Debug/net6.0/Example005_Condition_IfElse_.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/obj/Debug/net6.0/Example005_Condition_IfElse_.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/obj/Debug/net6.0/Example005_Condition_IfElse_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/obj/Debug/net6.0/Example005_Condition_IfElse_.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/obj/Debug/net6.0/Example005_Condition_IfElse_.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/obj/Debug/net6.0/Example005_Condition_IfElse_.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/obj/Debug/net6.0/Example005_Condition_IfElse_.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/obj/Debug/net6.0/refint/Example005_Condition_IfElse_.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/obj/Debug/net6.0/Example005_Condition_IfElse_.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/obj/Debug/net6.0/Example005_Condition_IfElse_.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example005_Condition_IfElse_/obj/Debug/net6.0/ref/Example005_Condition_IfElse_.dll
