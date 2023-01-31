@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/obj/Debug/net6.0/Example011_FindInArray.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/obj/Debug/net6.0/Example011_FindInArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/obj/Debug/net6.0/Example011_FindInArray.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/obj/Debug/net6.0/Example011_FindInArray.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/obj/Debug/net6.0/Example011_FindInArray.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/bin/Debug/net6.0/Example011_FindInArray
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/bin/Debug/net6.0/Example011_FindInArray.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/bin/Debug/net6.0/Example011_FindInArray.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/bin/Debug/net6.0/Example011_FindInArray.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/bin/Debug/net6.0/Example011_FindInArray.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/obj/Debug/net6.0/Example011_FindInArray.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/obj/Debug/net6.0/refint/Example011_FindInArray.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/obj/Debug/net6.0/Example011_FindInArray.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/obj/Debug/net6.0/Example011_FindInArray.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example011_FindInArray/obj/Debug/net6.0/ref/Example011_FindInArray.dll
