@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/bin/Debug/net6.0/Example009_ModuleMethod
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/bin/Debug/net6.0/Example009_ModuleMethod.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/bin/Debug/net6.0/Example009_ModuleMethod.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/bin/Debug/net6.0/Example009_ModuleMethod.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/bin/Debug/net6.0/Example009_ModuleMethod.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/obj/Debug/net6.0/Example009_ModuleMethod.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/obj/Debug/net6.0/Example009_ModuleMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/obj/Debug/net6.0/Example009_ModuleMethod.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/obj/Debug/net6.0/Example009_ModuleMethod.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/obj/Debug/net6.0/Example009_ModuleMethod.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/obj/Debug/net6.0/Example009_ModuleMethod.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/obj/Debug/net6.0/refint/Example009_ModuleMethod.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/obj/Debug/net6.0/Example009_ModuleMethod.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/obj/Debug/net6.0/Example009_ModuleMethod.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Example009_ModuleMethod/obj/Debug/net6.0/ref/Example009_ModuleMethod.dll
