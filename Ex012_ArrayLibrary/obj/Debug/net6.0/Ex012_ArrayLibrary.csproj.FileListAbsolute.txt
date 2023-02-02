@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/bin/Debug/net6.0/Ex012_ArrayLibrary
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/bin/Debug/net6.0/Ex012_ArrayLibrary.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/bin/Debug/net6.0/Ex012_ArrayLibrary.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/bin/Debug/net6.0/Ex012_ArrayLibrary.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/bin/Debug/net6.0/Ex012_ArrayLibrary.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/obj/Debug/net6.0/Ex012_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/obj/Debug/net6.0/Ex012_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/obj/Debug/net6.0/Ex012_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/obj/Debug/net6.0/Ex012_ArrayLibrary.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/obj/Debug/net6.0/Ex012_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/obj/Debug/net6.0/Ex012_ArrayLibrary.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/obj/Debug/net6.0/refint/Ex012_ArrayLibrary.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/obj/Debug/net6.0/Ex012_ArrayLibrary.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/obj/Debug/net6.0/Ex012_ArrayLibrary.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex012_ArrayLibrary/obj/Debug/net6.0/ref/Ex012_ArrayLibrary.dll
