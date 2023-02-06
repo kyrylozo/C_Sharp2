@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/Ex014_NoInputWithOutput.csproj",
+      "projectUniqueName": "/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_OutputMethods/Ex014_NoInputWithOutput.csproj",
       "projectName": "Ex014_NoInputWithOutput",
-      "projectPath": "/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/Ex014_NoInputWithOutput.csproj",
+      "projectPath": "/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_OutputMethods/Ex014_NoInputWithOutput.csproj",
       "packagesPath": "/Users/kyzlt/.nuget/packages/",
-      "outputPath": "/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/obj/",
+      "outputPath": "/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_OutputMethods/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kyzlt/.nuget/NuGet/NuGet.Config"

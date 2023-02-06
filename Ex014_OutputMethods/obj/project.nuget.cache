@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I08IVX32LeI1amuG8i//ws2gt7d04Eb7D4qQOFcoTuaX9+G/aZnb+Ua2yavlou4oTYv3O0pd0YWc5azm+mOkeQ==",
+  "dgSpecHash": "RIR4j1PxFOh+H4yhxtkM6+toBqFopRptGGPmJydVJR3+6jHcZVlRuPkQjrpl4Db7Cj2EdcHdD/01mqsB0Ze79A==",
   "success": true,
-  "projectFilePath": "/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/Ex014_NoInputWithOutput.csproj",
+  "projectFilePath": "/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_OutputMethods/Ex014_NoInputWithOutput.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
