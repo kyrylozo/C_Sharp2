@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/bin/Debug/net6.0/Ex014_NoInputWithOutput
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/bin/Debug/net6.0/Ex014_NoInputWithOutput.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/bin/Debug/net6.0/Ex014_NoInputWithOutput.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/bin/Debug/net6.0/Ex014_NoInputWithOutput.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/bin/Debug/net6.0/Ex014_NoInputWithOutput.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/obj/Debug/net6.0/Ex014_NoInputWithOutput.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/obj/Debug/net6.0/Ex014_NoInputWithOutput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/obj/Debug/net6.0/Ex014_NoInputWithOutput.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/obj/Debug/net6.0/Ex014_NoInputWithOutput.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/obj/Debug/net6.0/Ex014_NoInputWithOutput.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/obj/Debug/net6.0/Ex014_NoInputWithOutput.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/obj/Debug/net6.0/refint/Ex014_NoInputWithOutput.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/obj/Debug/net6.0/Ex014_NoInputWithOutput.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/obj/Debug/net6.0/Ex014_NoInputWithOutput.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex014_NoInputWithOutput/obj/Debug/net6.0/ref/Ex014_NoInputWithOutput.dll
