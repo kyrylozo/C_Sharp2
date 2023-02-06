@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/bin/Debug/net6.0/Ex013_Text_x_Times
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/bin/Debug/net6.0/Ex013_Text_x_Times.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/bin/Debug/net6.0/Ex013_Text_x_Times.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/bin/Debug/net6.0/Ex013_Text_x_Times.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/bin/Debug/net6.0/Ex013_Text_x_Times.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/obj/Debug/net6.0/Ex013_Text_x_Times.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/obj/Debug/net6.0/Ex013_Text_x_Times.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/obj/Debug/net6.0/Ex013_Text_x_Times.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/obj/Debug/net6.0/Ex013_Text_x_Times.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/obj/Debug/net6.0/Ex013_Text_x_Times.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/obj/Debug/net6.0/Ex013_Text_x_Times.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/obj/Debug/net6.0/refint/Ex013_Text_x_Times.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/obj/Debug/net6.0/Ex013_Text_x_Times.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/obj/Debug/net6.0/Ex013_Text_x_Times.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex013_Text_x_Times/obj/Debug/net6.0/ref/Ex013_Text_x_Times.dll

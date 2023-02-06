@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex013_Text_x_Times/1.0.0": {
+        "runtime": {
+          "Ex013_Text_x_Times.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex013_Text_x_Times/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
