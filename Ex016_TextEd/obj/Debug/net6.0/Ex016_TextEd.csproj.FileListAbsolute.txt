@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/obj/Debug/net6.0/Ex016_TextEd.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/obj/Debug/net6.0/Ex016_TextEd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/obj/Debug/net6.0/Ex016_TextEd.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/obj/Debug/net6.0/Ex016_TextEd.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/obj/Debug/net6.0/Ex016_TextEd.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/bin/Debug/net6.0/Ex016_TextEd
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/bin/Debug/net6.0/Ex016_TextEd.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/bin/Debug/net6.0/Ex016_TextEd.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/bin/Debug/net6.0/Ex016_TextEd.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/bin/Debug/net6.0/Ex016_TextEd.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/obj/Debug/net6.0/Ex016_TextEd.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/obj/Debug/net6.0/refint/Ex016_TextEd.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/obj/Debug/net6.0/Ex016_TextEd.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/obj/Debug/net6.0/Ex016_TextEd.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex016_TextEd/obj/Debug/net6.0/ref/Ex016_TextEd.dll
