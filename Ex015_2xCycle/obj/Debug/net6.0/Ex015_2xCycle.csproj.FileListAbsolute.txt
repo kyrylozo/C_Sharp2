@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/bin/Debug/net6.0/Ex015_2xCycle
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/bin/Debug/net6.0/Ex015_2xCycle.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/bin/Debug/net6.0/Ex015_2xCycle.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/bin/Debug/net6.0/Ex015_2xCycle.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/bin/Debug/net6.0/Ex015_2xCycle.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/obj/Debug/net6.0/Ex015_2xCycle.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/obj/Debug/net6.0/Ex015_2xCycle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/obj/Debug/net6.0/Ex015_2xCycle.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/obj/Debug/net6.0/Ex015_2xCycle.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/obj/Debug/net6.0/Ex015_2xCycle.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/obj/Debug/net6.0/Ex015_2xCycle.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/obj/Debug/net6.0/refint/Ex015_2xCycle.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/obj/Debug/net6.0/Ex015_2xCycle.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/obj/Debug/net6.0/Ex015_2xCycle.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex015_2xCycle/obj/Debug/net6.0/ref/Ex015_2xCycle.dll
