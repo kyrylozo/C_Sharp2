@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/bin/Debug/net6.0/Ex018_RecursionAlgorithm
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/bin/Debug/net6.0/Ex018_RecursionAlgorithm.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/bin/Debug/net6.0/Ex018_RecursionAlgorithm.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/bin/Debug/net6.0/Ex018_RecursionAlgorithm.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/bin/Debug/net6.0/Ex018_RecursionAlgorithm.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/obj/Debug/net6.0/Ex018_RecursionAlgorithm.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/obj/Debug/net6.0/Ex018_RecursionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/obj/Debug/net6.0/Ex018_RecursionAlgorithm.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/obj/Debug/net6.0/Ex018_RecursionAlgorithm.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/obj/Debug/net6.0/Ex018_RecursionAlgorithm.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/obj/Debug/net6.0/Ex018_RecursionAlgorithm.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/obj/Debug/net6.0/refint/Ex018_RecursionAlgorithm.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/obj/Debug/net6.0/Ex018_RecursionAlgorithm.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/obj/Debug/net6.0/Ex018_RecursionAlgorithm.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex018_RecursionAlgorithm/obj/Debug/net6.0/ref/Ex018_RecursionAlgorithm.dll
