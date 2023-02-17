@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/bin/Debug/net6.0/Ex019_RecAlgRandMethod
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/bin/Debug/net6.0/Ex019_RecAlgRandMethod.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/bin/Debug/net6.0/Ex019_RecAlgRandMethod.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/bin/Debug/net6.0/Ex019_RecAlgRandMethod.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/bin/Debug/net6.0/Ex019_RecAlgRandMethod.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/obj/Debug/net6.0/Ex019_RecAlgRandMethod.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/obj/Debug/net6.0/Ex019_RecAlgRandMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/obj/Debug/net6.0/Ex019_RecAlgRandMethod.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/obj/Debug/net6.0/Ex019_RecAlgRandMethod.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/obj/Debug/net6.0/Ex019_RecAlgRandMethod.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/obj/Debug/net6.0/Ex019_RecAlgRandMethod.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/obj/Debug/net6.0/refint/Ex019_RecAlgRandMethod.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/obj/Debug/net6.0/Ex019_RecAlgRandMethod.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/obj/Debug/net6.0/Ex019_RecAlgRandMethod.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex019_RecAlgRandMethod/obj/Debug/net6.0/ref/Ex019_RecAlgRandMethod.dll
