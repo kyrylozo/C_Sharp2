@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/obj/Debug/net6.0/Ex021_RecursionFibonacci.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/obj/Debug/net6.0/Ex021_RecursionFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/obj/Debug/net6.0/Ex021_RecursionFibonacci.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/obj/Debug/net6.0/Ex021_RecursionFibonacci.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/obj/Debug/net6.0/Ex021_RecursionFibonacci.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/bin/Debug/net6.0/Ex021_RecursionFibonacci
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/bin/Debug/net6.0/Ex021_RecursionFibonacci.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/bin/Debug/net6.0/Ex021_RecursionFibonacci.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/bin/Debug/net6.0/Ex021_RecursionFibonacci.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/bin/Debug/net6.0/Ex021_RecursionFibonacci.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/obj/Debug/net6.0/Ex021_RecursionFibonacci.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/obj/Debug/net6.0/refint/Ex021_RecursionFibonacci.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/obj/Debug/net6.0/Ex021_RecursionFibonacci.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/obj/Debug/net6.0/Ex021_RecursionFibonacci.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex021_RecursionFibonacci/obj/Debug/net6.0/ref/Ex021_RecursionFibonacci.dll
