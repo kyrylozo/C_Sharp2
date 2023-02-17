@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/obj/Debug/net6.0/Ex020_RecurrentFactorial.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/obj/Debug/net6.0/Ex020_RecurrentFactorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/obj/Debug/net6.0/Ex020_RecurrentFactorial.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/obj/Debug/net6.0/Ex020_RecurrentFactorial.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/obj/Debug/net6.0/Ex020_RecurrentFactorial.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/bin/Debug/net6.0/Ex020_RecurrentFactorial
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/bin/Debug/net6.0/Ex020_RecurrentFactorial.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/bin/Debug/net6.0/Ex020_RecurrentFactorial.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/bin/Debug/net6.0/Ex020_RecurrentFactorial.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/bin/Debug/net6.0/Ex020_RecurrentFactorial.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/obj/Debug/net6.0/Ex020_RecurrentFactorial.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/obj/Debug/net6.0/refint/Ex020_RecurrentFactorial.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/obj/Debug/net6.0/Ex020_RecurrentFactorial.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/obj/Debug/net6.0/Ex020_RecurrentFactorial.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex020_RecurrentFactorial/obj/Debug/net6.0/ref/Ex020_RecurrentFactorial.dll
