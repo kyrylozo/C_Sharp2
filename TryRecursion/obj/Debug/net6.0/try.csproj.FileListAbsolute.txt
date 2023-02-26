@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/bin/Debug/net6.0/try
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/bin/Debug/net6.0/try.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/bin/Debug/net6.0/try.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/bin/Debug/net6.0/try.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/bin/Debug/net6.0/try.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/obj/Debug/net6.0/try.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/obj/Debug/net6.0/try.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/obj/Debug/net6.0/try.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/obj/Debug/net6.0/try.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/obj/Debug/net6.0/try.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/obj/Debug/net6.0/try.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/obj/Debug/net6.0/refint/try.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/obj/Debug/net6.0/try.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/obj/Debug/net6.0/try.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/obj/Debug/net6.0/ref/try.dll
