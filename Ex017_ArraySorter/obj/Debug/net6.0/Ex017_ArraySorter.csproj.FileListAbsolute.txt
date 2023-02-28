@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/bin/Debug/net6.0/Ex017_ArraySorter
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/bin/Debug/net6.0/Ex017_ArraySorter.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/bin/Debug/net6.0/Ex017_ArraySorter.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/bin/Debug/net6.0/Ex017_ArraySorter.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/bin/Debug/net6.0/Ex017_ArraySorter.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/obj/Debug/net6.0/Ex017_ArraySorter.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/obj/Debug/net6.0/Ex017_ArraySorter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/obj/Debug/net6.0/Ex017_ArraySorter.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/obj/Debug/net6.0/Ex017_ArraySorter.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/obj/Debug/net6.0/Ex017_ArraySorter.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/obj/Debug/net6.0/Ex017_ArraySorter.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/obj/Debug/net6.0/refint/Ex017_ArraySorter.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/obj/Debug/net6.0/Ex017_ArraySorter.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/obj/Debug/net6.0/Ex017_ArraySorter.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex017_ArraySorter/obj/Debug/net6.0/ref/Ex017_ArraySorter.dll
