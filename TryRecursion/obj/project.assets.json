@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/try.csproj",
+      "projectUniqueName": "/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/TryRecursion/try.csproj",
       "projectName": "try",
-      "projectPath": "/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/try.csproj",
+      "projectPath": "/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/TryRecursion/try.csproj",
       "packagesPath": "/Users/kyzlt/.nuget/packages/",
-      "outputPath": "/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/try/obj/",
+      "outputPath": "/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/TryRecursion/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kyzlt/.nuget/NuGet/NuGet.Config"

@@ -55,3 +55,12 @@ int PowerRec(int a, int n)
     return n == 0 ? 1 : PowerRec(a, n - 1) * a;
 }
 System.Console.WriteLine(PowerRec(2, 10));
+
+// 55
+// Sum of numbers Recursion: 55
+// Факториал числа = 120
+// Number factorial Recursion = 120
+// _____________________________________________
+// Степень N числа А = 1024
+// 1024
+// kyzlt@Air-von-Kyrylo TryRecursion % 
