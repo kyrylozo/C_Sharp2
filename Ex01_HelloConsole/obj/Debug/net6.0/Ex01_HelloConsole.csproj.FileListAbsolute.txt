@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/bin/Debug/net6.0/Ex01_HelloConsole
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/bin/Debug/net6.0/Ex01_HelloConsole.deps.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/bin/Debug/net6.0/Ex01_HelloConsole.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/bin/Debug/net6.0/Ex01_HelloConsole.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/bin/Debug/net6.0/Ex01_HelloConsole.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/obj/Debug/net6.0/Ex01_HelloConsole.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/obj/Debug/net6.0/Ex01_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/obj/Debug/net6.0/Ex01_HelloConsole.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/obj/Debug/net6.0/Ex01_HelloConsole.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/obj/Debug/net6.0/Ex01_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/obj/Debug/net6.0/Ex01_HelloConsole.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/obj/Debug/net6.0/refint/Ex01_HelloConsole.dll
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/obj/Debug/net6.0/Ex01_HelloConsole.pdb
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/obj/Debug/net6.0/Ex01_HelloConsole.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_sharp2/C_Sharp2/Ex01_HelloConsole/obj/Debug/net6.0/ref/Ex01_HelloConsole.dll
