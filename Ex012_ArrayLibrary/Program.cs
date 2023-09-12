@@ -58,6 +58,6 @@ FillArray(array);  // Запустить метод: "FillArraу"
 PrintArray(array); // Запустить метод: "PrintArray"
 Console.WriteLine();
 
-int pos = IndexOf(array, 12); // В методе "IndexOf" - два аргумента: имя вводимого массива и число, которое необходимо найти
+int pos = IndexOf(array, 5); // В методе "IndexOf" - два аргумента: имя вводимого массива и число, которое необходимо найти
 Console.Write("Индекс первого искомого числа в массиве: ");
 Console.WriteLine(pos);
