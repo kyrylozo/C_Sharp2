@@ -9,7 +9,7 @@ string text = "- Я думаю, - сказал князь, улыбаясь, - �
 
 // string s = "querty"
 //             012
-// s[3] //
+// s[3] // r
 
 string Replace(string text, char oldValue, char newValue)
 {
@@ -34,3 +34,25 @@ newText = Replace(newText, 'В','в');
 Console.WriteLine(newText);
 Console.WriteLine();
 
+
+string Replace2 (string text, char oldValue, char newValue)
+{
+    string result2 = String.Empty;
+    int length = text.Length;
+    for (int i = 0; i < length; i++)
+    {
+        if (text [i] == oldValue)
+        {
+            result2 = result2 + newValue;
+        }
+        else result2 = result2 + text[i];
+    }
+    return result2;
+}
+
+// System.Console.WriteLine($"{Replace2(text, " ", "-")}");
+// System.Console.WriteLine();
+
+string nwText = Replace2(text, 'л', 'Л'); 
+Console.WriteLine(nwText);
+Console.WriteLine();
